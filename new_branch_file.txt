@@ -1,2 +1,2 @@
-New branch file only shows up the branch named "new_branch"
+New branch file only shows up in master and in branch named "new_branch"
 
